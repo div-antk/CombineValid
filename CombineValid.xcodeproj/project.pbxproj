@@ -11,6 +11,7 @@
 		3BDF0B5825DBF709009955CB /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3BDF0B5725DBF709009955CB /* ContentView.swift */; };
 		3BDF0B5A25DBF70C009955CB /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3BDF0B5925DBF70C009955CB /* Assets.xcassets */; };
 		3BDF0B5D25DBF70C009955CB /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3BDF0B5C25DBF70C009955CB /* Preview Assets.xcassets */; };
+		3BDF0B6725DBF7C1009955CB /* ViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3BDF0B6625DBF7C1009955CB /* ViewModel.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +21,7 @@
 		3BDF0B5925DBF70C009955CB /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		3BDF0B5C25DBF70C009955CB /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		3BDF0B5E25DBF70C009955CB /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		3BDF0B6625DBF7C1009955CB /* ViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewModel.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +56,7 @@
 			children = (
 				3BDF0B5525DBF709009955CB /* CombineValidApp.swift */,
 				3BDF0B5725DBF709009955CB /* ContentView.swift */,
+				3BDF0B6625DBF7C1009955CB /* ViewModel.swift */,
 				3BDF0B5925DBF70C009955CB /* Assets.xcassets */,
 				3BDF0B5E25DBF70C009955CB /* Info.plist */,
 				3BDF0B5B25DBF70C009955CB /* Preview Content */,
@@ -139,6 +142,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				3BDF0B5825DBF709009955CB /* ContentView.swift in Sources */,
+				3BDF0B6725DBF7C1009955CB /* ViewModel.swift in Sources */,
 				3BDF0B5625DBF709009955CB /* CombineValidApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
